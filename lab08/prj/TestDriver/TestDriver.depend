@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1677080915 source:d:\Леха КИСМ\БМТП\2 семестр\Лабы\tkachenko-oleksii-kb222\lab08\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesTkachenko.h"
+	<iomanip>
+
+1677071214 d:\Леха КИСМ\БМТП\2 семестр\Лабы\tkachenko-oleksii-kb222\lab08\prj\modulestkachenko.h
+
+1677072844 d:\Леха КИСМ\БМТП\2 семестр\Лабы\tkachenko-oleksii-kb222\lab08\prj\modulestkachenko1.h
+
+1677080373 source:d:\Леха КИСМ\БМТП\2 семестр\Лабы\tkachenko-oleksii-kb222\lab08\prj\modulestkachenko\main.cpp
+	<math.h>
+

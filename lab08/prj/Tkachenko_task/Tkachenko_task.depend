@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1677092387 source:d:\Леха КИСМ\БМТП\2 семестр\Лабы\tkachenko-oleksii-kb222\lab08\prj\tkachenko_task\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesTkachenko.h"
+
+1677071214 d:\Леха КИСМ\БМТП\2 семестр\Лабы\tkachenko-oleksii-kb222\lab08\prj\modulestkachenko.h
+
+1677080373 source:d:\Леха КИСМ\БМТП\2 семестр\Лабы\tkachenko-oleksii-kb222\lab08\prj\modulestkachenko\main.cpp
+	<math.h>
+
